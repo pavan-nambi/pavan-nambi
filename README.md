@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavan-nambi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me github
 
